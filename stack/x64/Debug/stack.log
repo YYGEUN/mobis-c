@@ -1,0 +1,7 @@
+﻿  stack.c
+C:\Users\user\Desktop\c\stack\stack.c(163,15): warning C4098: 'printStack': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\c\stack\stack.c(166,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\c\stack\stack.c(194,15): warning C4098: 'destroyStack': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Desktop\c\stack\stack.c(199,17): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\user\Desktop\c\stack\stack.c(196,7): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  stack.vcxproj -> C:\Users\user\Desktop\c\linkedlist\x64\Debug\stack.exe

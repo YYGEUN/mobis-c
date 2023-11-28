@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\c\project_c\x64\Debug\project_c.exe
+D:\새 폴더 (2)\project_c (2)\x64\Debug\project_c.exe
+C:\Users\user\Desktop\c\c_project_ver2\x64\Debug\project_c.exe
+D:\새 폴더 (2)\c_project_ver3\x64\Debug\project_c.exe
+C:\Users\user\Desktop\c\c_project_ver2\새 폴더\x64\Debug\project_c.exe
